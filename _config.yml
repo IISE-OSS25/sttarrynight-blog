@@ -15,7 +15,7 @@ description: Opensource SW, Spring 2025
 # on the web). Replace "blog" by the name of your own repository.
 # It should be "USER_NAME-blog" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /sttarynight-blog/images/profile.png 
+avatar: /sttarrynight-blog/images/profile.png 
 
 # CUSTOMIZE
 #
@@ -41,12 +41,12 @@ footer-links:
 # Your blog URL (e.g. https://iise-oss25.github.io/blog )
 # Replace the last part by the name of your own repository.
 # It should be "/YOUR_ID-blog".
-url: "https://iise-oss25.github.io/sttarynight-blog"
+url: "https://iise-oss25.github.io/sttarrynight-blog"
 
 # CUSTOMIZE
 # Replace "/blog" by the name of your own repository.
 # ex.,  "/YOUR_ID-blog"
-baseurl: "/sttarynight-blog"
+baseurl: "/sttarrynight-blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
