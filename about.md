@@ -11,15 +11,15 @@ permalink: /about/
 
 ---
 
-## 📬 연락처 및 소셜
+## 연락처 및 소셜
 
-- 📧 Email: [kyb20102010@seoultech.ac.kr](mailto:kyb20102010@seoultech.ac.kr)  
-- 🐙 GitHub: [https://github.com/sttarrynight](https://github.com/sttarrynight)  
-- 📸 Instagram: [@be_you_eng](https://www.instagram.com/be.you.eng/)
+- Email: [kyb20102010@seoultech.ac.kr](mailto:kyb20102010@seoultech.ac.kr)  
+- GitHub: [https://github.com/sttarrynight](https://github.com/sttarrynight)  
+- Instagram: [@be_you_eng](https://www.instagram.com/be.you.eng/)
 
 ---
 
-## 💡 관심 분야
+## 관심 분야
 
 - **웹 개발**: Java, Spring Boot, JPA
 - **클라우드 엔지니어링**: Docker, AWS, GitHub Actions
